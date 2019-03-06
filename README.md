@@ -3,6 +3,6 @@
 
 ***ART/MUSIC:*** The art and SFX were downloaded via websites providing free resources for game development.
 
-***CONTROLS*** Thrust - SPACE, Shoot - CTRL, Drive - Arrow Keys
+***CONTROLS:*** Thrust - SPACE, Shoot - CTRL, Drive - Arrow Keys
 
 You can play it here: https://orestistanis.github.io/Asteroids/
