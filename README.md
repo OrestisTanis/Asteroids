@@ -5,4 +5,4 @@
 
 ***CONTROLS:*** Thrust - SPACE, Shoot - CTRL, Drive - Arrow Keys
 
-You can play it here: https://orestistanis.github.io/Asteroids/
+You can play it here: https://orestistanis.github.io/asteroids/
